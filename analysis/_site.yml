@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: https://https://github.macromill.com/mm-ishimaru/test
+    href: https://github.macromill.com/mm-ishimaru/test
 output:
   workflowr::wflow_html:
     toc: yes
