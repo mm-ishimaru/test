@@ -4,4 +4,4 @@ A [workflowr][] project.
 
 [workflowr]: https://github.com/jdblischak/workflowr
 
-いろいろ試す用のレポジトリ
+workflowrをいろいろ試す用のレポジトリ
